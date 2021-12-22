@@ -6,8 +6,9 @@ Dataset Link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-dat
 Here we have build a model, that on the given information of note's we predict the the given note is authenticated or note.
 
 # Our Goal
-We have build web app for the same using Flask and Flasgger for the ease of using the project.
-We have also used Docker for Dockerizing the project so that we can containerize the project and run it on another required machine.
+1. Building a model, that on the given information of note's we predict the the given note is authenticated or note.
+2. We have build web app for the same using Flask and Flasgger for the ease of using the project.
+3. We have also used Docker for Dockerizing the project so that we can containerize the project and run it on another required machine.
 
 # Tools Used
 1. Numpy
