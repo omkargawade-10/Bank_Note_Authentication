@@ -3,7 +3,7 @@ Data were extracted from images that were taken from genuine and forged banknote
 Dataset Link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
 
 # Business Problem
-Here we have build a model, that on the given information of note's we predict the the given note is authenticated or note.
+Here we have build a model, that on the given information of note's we predict the the given note is authenticated or not.
 
 # Our Goal
 1. Building a model, that on the given information of note's we predict the the given note is authenticated or note.
